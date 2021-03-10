@@ -1,6 +1,7 @@
 h1,
 h2,
 h3 {
+    /* Change this to change the font once we have decided if this is a good font to use professionally.*/
     font-family: 'Brush Script MT', cursive;
     font-size: 4em;
 }
@@ -14,7 +15,7 @@ a, a:hover {
     background-color: #049e1e;
 }
 
-        
+/* Change this to change the background color of the jumbotron once we have decided on color scheme.*/
 .jumbotron {
     padding: 30px;
     background-image: linear-gradient(to right, #f0710a, #bdba09, #047417);
