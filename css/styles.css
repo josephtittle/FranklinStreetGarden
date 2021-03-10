@@ -1,8 +1,8 @@
 h1,
 h2,
 h3 {
-    font-family: 'Brush Script MT', cursive;
-    font-size: 4em;
+    font-family: 'Grandstander', cursive;
+    font-size: 5em;
 }
 
 a, a:hover {
@@ -11,13 +11,25 @@ a, a:hover {
   }
 
   .navbar {
-    background-color: #049e1e;
+    background-color: #bda461;
 }
 
         
 .jumbotron {
     padding: 30px;
-    background-image: linear-gradient(to right, #f0710a, #bdba09, #047417);
+    background-image: linear-gradient(to right, #fffd9f, #10d631);
     color: white;
     margin: 0;
+    text-align: right;
+}
+
+footer {
+    padding: 30px;
+    background-color: #047417;
+    color: white;
+    margin: 0;
+}
+
+.facebookGroup {
+    color: white;
 }
