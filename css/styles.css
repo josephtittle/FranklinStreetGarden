@@ -17,10 +17,10 @@ a, a:hover {
 /* Change this to change the background color of the jumbotron once we have decided on color scheme.*/
 .jumbotron {
     padding: 30px;
-    background-image: linear-gradient(to right, #fffd9f, #10d631);
+    background-image: linear-gradient(to right, #10d631, #fffd9f);
     color: white;
     margin: 0;
-    text-align: right;
+    text-align: left;
 }
 
 footer {
