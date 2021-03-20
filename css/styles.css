@@ -74,3 +74,33 @@ footer {
     visibility: hidden;
     }
 }
+
+.blockquote-footer {
+    color:white;
+    background-color: #047417;
+width: 100%;
+}
+.media{
+    overflow: hidden;
+}
+
+.blockquote{
+    width: 100%;
+    background-image: url("../gardenImages/quotes.png");
+    background-color:rgba(57, 134, 59, 0.9);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 15px;
+    border: none;
+    font-size: x-large;
+    padding-left: 50px;
+    padding-top: 50px;
+    color: white;
+    text-align: center;
+    padding-bottom: 15px;
+    margin-top: 10px;
+}
+
+.carousel {
+    border: solid #047417;
+}
