@@ -37,33 +37,6 @@ footer {
 .blockquote-footer {
     color:white;
     background-color: #047417;
-<<<<<<< HEAD
-    width: 100%;
-}
-.media{
-    overflow: hidden;
-}
-.blockquote{
-    width: 100%;
-    background-image: url("../gardenImages/quotes.png");
-    background-color:rgba(57, 134, 59, 0.9);
-    background-repeat: no-repeat;
-    background-position-x: center;
-    background-position-y: 15px;
-    border: none;
-    font-size: x-large;
-    padding-left: 50px;
-    padding-top: 50px;
-    color: white;
-    text-align: center;
-    padding-bottom: 15px;
-    margin-top: 10px;
-}
-
-.carousel {
-    border: solid #047417;
-}
-=======
 }
 
 
@@ -101,4 +74,14 @@ footer {
       visibility: hidden;
     }
   }
->>>>>>> b13334c70ab7fb05203989a332c80e884caa76cf
+
+#welcomeLand {
+    background-color: #047417;
+    color: white;
+}
+
+#contactLand,
+  #photoLand
+   {
+      background: #fffd9f;
+  }
