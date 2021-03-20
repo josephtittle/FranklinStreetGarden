@@ -104,3 +104,13 @@ width: 100%;
 .carousel {
     border: solid #047417;
 }
+#welcomeLand {
+    background-color: #047417;
+    color: white;
+}
+
+#contactLand,
+  #photoLand
+   {
+      background: #fffd9f;
+  }
